@@ -1,4 +1,4 @@
 
 ```javascript
-Full-Stack Developer
+Developer
 ```
